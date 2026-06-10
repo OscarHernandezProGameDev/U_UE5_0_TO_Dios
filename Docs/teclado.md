@@ -9,6 +9,25 @@
 
 
 
+\# selección
+
+
+
+Ctrl+g hace grupo de la selección de objetos
+
+shirt+G rompe grupo
+
+
+
+\# Mover/Rotar/Escalar
+
+
+
+* Espacio cambia modo
+* seleccionamos objeto y con el click derecho seleccionamos vértice para mover/rotas/escalar
+
+
+
 \# Duplicar
 
 
@@ -19,4 +38,5 @@
 
 * Ctrl+V pegas
 * Alt + click izquierdo en quizmo de mover objeto muevo pero creando uno nuevo
+* Ctrl+C al objeto a copiar, click izquierdo selecciona objeto a poner y luego la tecla c
 
