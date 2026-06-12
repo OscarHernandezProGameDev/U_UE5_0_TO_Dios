@@ -40,3 +40,12 @@ shirt+G rompe grupo
 * Alt + click izquierdo en quizmo de mover objeto muevo pero creando uno nuevo
 * Ctrl+C al objeto a copiar, click izquierdo selecciona objeto a poner y luego la tecla c
 
+
+
+\# Objetos/Escena
+
+
+
+* F11 => pantalla completa
+* ctrl+espacio => saca una ventana para poder poner objetos
+
